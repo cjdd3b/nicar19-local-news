@@ -80,7 +80,7 @@ To provide parents with access to information on the physical state of more than
 We found that Florida's clemency system was wildly arbitrary, varying by several orders of magnitude by each governor and, under the then-current governor, showing significantly flawed racial outcomes and political bias. None of this data had previously been reported, nor was it in a major lawsuit. We blended a woefully incomplete little PDF with about six sets of voter data, two prison data sets and about 500,000 scrapes to find out that out.
 
   * [Florida felon voting rights: Who got theirs back under Scott?
-](https://www.palmbeachpost.com/)news/20181025/florida-felon-voting-rights-who-got-theirs-back-under-scott
+](https://www.palmbeachpost.com/news/20181025/florida-felon-voting-rights-who-got-theirs-back-under-scott)
   * [Felon voting: How The Post found the key Gov. Rick Scott refused to provide](https://www.palmbeachpost.com/news/20181025/felon-voting-how-post-found-key-gov-rick-scott-refused-to-provide)
 
 ---
@@ -97,6 +97,7 @@ My talented colleague William Wolfe-Wylie and I scraped thousands of tickets to 
 ](https://www.cbc.ca/news/canada/toronto/leafs-tickets-1.4613313)
   * [New Ontario government puts brakes on anti-scalping law](https://www.cbc.ca/news/canada/toronto/anti-scalping-tickets-law-ontario-1.4732867)
   * ['I'm getting ripped off': A look inside Ticketmaster's price-hiking bag of tricks](https://www.cbc.ca/news/business/ticketmaster-prices-scalpers-bruno-mars-1.4826914)
+  * [How we did it (slides)](https://docs.google.com/presentation/d/1S7lYVGWY8Ck-VUhGzHCLCh-XEWWrNk_GikNwHn5vMbk/edit?ts=5c8048f2)
 
 ---
 
