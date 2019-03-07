@@ -1,4 +1,4 @@
-# Presenters
+
 
 ---
 
@@ -45,7 +45,7 @@ Once a week, [we ran a short story](https://www.northjersey.com/staff/10056920/d
 
 ---
 
-## **Disha Raychaudhuri**
+## **Disha Raychaudhuri and Blake Nelson**
 ### **[NJ Advance Media](https://www.nj.com/)**
 
 **Contact**: draychaudhuri@njadvancemedia.com
